@@ -1,0 +1,1534 @@
+intents: 
+
+- OthersOthersWeedManagement 
+
+- OthersOthersWeather 
+
+- OthersOthersGovernmentSchemes 
+
+- VegetablesTomatoPlantProtection 
+
+- OthersOthersMarketInformation 
+
+- VegetablesBrinjalAgricultureMechanization 
+
+- CondimentsandSpicesTurmericMarketInformation 
+
+- FruitsMangoMarketInformation 
+
+- CondimentsandSpicesGingerCulturalPractices 
+
+- CondimentsandSpicesGingerSeedsandPlantingMaterial 
+
+- FiberCropsCottonKapasMarketInformation 
+
+- CerealsPaddyDhanPlantProtection 
+
+- VegetablesRidgeGourdPlantProtection 
+
+- MilletsMaizeMakkaMarketInformation 
+
+- MilletsMaizeMakkaPlantProtection 
+
+- FruitsMangoPlantProtection 
+
+- VegetablesCowpeaVegetablePlantProtection 
+
+- OthersOthersCulturalPractices 
+
+- FruitsCitrusNutrientManagement 
+
+- VegetablesChilliesAgricultureMechanization 
+
+- VegetablesBrinjalPlantProtection 
+
+- MilletsSorghumJowarGreatMilletMarketInformation 
+
+- MilletsPearlMilletBajraBulrushMilletSpikedMilletPlantProtection 
+
+- CerealsPaddyDhanVarieties 
+
+- OthersOthersSeeds 
+
+- OilseedsGroundnutpeanutmungphalliNutrientManagement 
+
+- OilseedsSesameGingellyTilSesamumFertilizerUseandAvailability 
+
+- MilletsPearlMilletBajraBulrushMilletSpikedMilletSowingTimeandWeather 
+
+- OilseedsSesameGingellyTilSesamumNutrientManagement 
+
+- VegetablesLabLabCulturalPractices 
+
+- PulsesBlackGramurdbeanSowingTimeandWeather 
+
+- PulsesGreenGramMoongBeanMoongMarketInformation 
+
+- PulsesBlackGramurdbeanMarketInformation 
+
+- MilletsMaizeMakkaWeedManagement 
+
+- VegetablesBhindiOkraLadysfingerCulturalPractices 
+
+- VegetablesOnionGovernmentSchemes 
+
+- FiberCropsCottonKapasWeather 
+
+- VegetablesTomatoNutrientManagement 
+
+- FruitsBananaPlantProtection 
+
+- OilseedsGroundnutpeanutmungphalliPlantProtection 
+
+- PulsesPigeonpearedgramarharturVarieties 
+
+- OthersOthersTrainingandExposureVisits 
+
+- VegetablesTomatoPlasticulture 
+
+- VegetablesChilliesNutrientManagement 
+
+- VegetablesBhindiOkraLadysfingerSeedsandPlantingMaterial 
+
+- VegetablesBeansNurseryManagement 
+
+- VegetablesCarrotCulturalPractices 
+
+- OthersOthersSoilHealthCard 
+
+- MedicinalandAromaticPlantsAloeVeraCulturalPractices 
+
+- VegetablesTomatoFertilizerUseandAvailability 
+
+- FruitsMangoSeedsandPlantingMaterial 
+
+- FlowersHibiscusGurhalPlantProtection 
+
+- FruitsChestnutPlantProtection 
+
+- FlowersTuberosePlantProtection 
+
+- CerealsPaddyDhanSowingTimeandWeather 
+
+- FlowersChrysanthemumPlantProtection 
+
+- OilseedsGroundnutpeanutmungphalliCulturalPractices 
+
+- OilseedsGroundnutpeanutmungphalliWeedManagement 
+
+- VegetablesBottleGourdPlantProtection 
+
+- CerealsPaddyDhanFertilizerUseandAvailability 
+
+- OthersOthersNutrientManagement 
+
+- OthersOthersPlantProtection 
+
+- VegetablesTomatoCulturalPractices 
+
+- VegetablesTomatoAgricultureMechanization 
+
+- VegetablesBrinjalNutrientManagement 
+
+- VegetablesBhindiOkraLadysfingerPlantProtection 
+
+- OilseedsSunflowersuryamukhiWeedManagement 
+
+- VegetablesChilliesPlantProtection 
+
+- FruitsPapayaCulturalPractices 
+
+- CerealsPaddyDhanGovernmentSchemes 
+
+- FruitsMangoCulturalPractices 
+
+- CerealsPaddyDhanCulturalPractices 
+
+- VegetablesBrinjalCulturalPractices 
+
+- VegetablesCowpeaVegetableCulturalPractices 
+
+- MilletsKodoMilletKodaraVaraguMarketInformation 
+
+- FodderCropsOtherTrainingandExposureVisits 
+
+- FruitsCitrusPlantProtection 
+
+- FruitsBananaAgricultureMechanization 
+
+- VegetablesCurryLeafSeedsandPlantingMaterial 
+
+- FruitsMosambiPlantProtection 
+
+- FiberCropsCottonKapasPlantProtection 
+
+- FruitsBananaFertilizerUseandAvailability 
+
+- FruitsPapayaAgricultureMechanization 
+
+- FruitsPapayaPlantProtection 
+
+- VegetablesBitterGourdSeedsandPlantingMaterial 
+
+- CerealsWheatWeather 
+
+- OthersOthersFieldPreparation 
+
+- OthersOthersVarieties 
+
+- VegetablesBitterGourdVegetativePropagationandTissueCulture 
+
+- VegetablesOnionWeather 
+
+- FruitsBananaWeather 
+
+- FruitsPapayaNutrientManagement 
+
+- MilletsMaizeMakkaVarieties 
+
+- FruitsPomegranatePlantProtection 
+
+- PulsesGreenGramMoongBeanMoongNutrientManagement 
+
+- FruitsLitchiPlantProtection 
+
+- CondimentsandSpicesTurmericSeedsandPlantingMaterial 
+
+- VegetablesChilliesCulturalPractices 
+
+- FiberCropsCottonKapasFieldPreparation 
+
+- OilseedsGroundnutpeanutmungphalliFertilizerUseandAvailability 
+
+- PulsesBlackGramurdbeanFertilizerUseandAvailability 
+
+- FiberCropsCottonKapasFertilizerUseandAvailability 
+
+- OilseedsGroundnutpeanutmungphalliFieldPreparation 
+
+- OthersOthersSoilTesting 
+
+- PulsesGreenGramMoongBeanMoongSeeds 
+
+- VegetablesWatermelonPlantProtection 
+
+- VegetablesBottleGourdNutrientManagement 
+
+- MilletsBarnyardMilletKundiraivlliSawanPlantProtection 
+
+- VegetablesPointedGourdCulturalPractices 
+
+- VegetablesOnionCulturalPractices 
+
+- BeekeepingBeekeepingCulturalPractices 
+
+- OthersOthersAgricultureMechanization 
+
+- OilseedsGroundnutpeanutmungphalliWeather 
+
+- FiberCropsCottonKapasVarieties 
+
+- OilseedsGroundnutpeanutmungphalliSeeds 
+
+- OthersOthersWaterManagement 
+
+- FruitsCustardAppleCulturalPractices 
+
+- MedicinalandAromaticPlantsNeemNurseryManagement 
+
+- FruitsBananaCulturalPractices 
+
+- CerealsBarleyJauFieldPreparation 
+
+- OilseedsSoybeanbhatCulturalPractices 
+
+- FruitsSapotaCulturalPractices 
+
+- FruitsSapotaSeedsandPlantingMaterial 
+
+- AnimalBovineCowBuffaloAnimalBreeding 
+
+- FiberCropsCottonKapasCulturalPractices 
+
+- FiberCropsCottonKapasWeedManagement 
+
+- CerealsWheatVarieties 
+
+- FiberCropsCottonKapasNutrientManagement 
+
+- CerealsPaddyDhanWeather 
+
+- CerealsPaddyDhanSeeds 
+
+- PulsesGreenGramMoongBeanMoongSowingTimeandWeather 
+
+- VegetablesBottleGourdCulturalPractices 
+
+- MilletsSorghumJowarGreatMilletPlantProtection 
+
+- OthersOthersSowingTimeandWeather 
+
+- FodderCropsGuarVarieties 
+
+- OilseedsMustardMarketInformation 
+
+- VegetablesCapsicumBioPesticidesandBioFertilizers 
+
+- FiberCropsCottonKapasBioPesticidesandBioFertilizers 
+
+- MilletsBarnyardMilletKundiraivlliSawanFieldPreparation 
+
+- OthersOthersBioPesticidesandBioFertilizers 
+
+- FruitsGuavaCulturalPractices 
+
+- CerealsPaddyDhanBioPesticidesandBioFertilizers 
+
+- FiberCropsCottonKapasSowingTimeandWeather 
+
+- MilletsSorghumJowarGreatMilletBioPesticidesandBioFertilizers 
+
+- CerealsPaddyDhanSoilTesting 
+
+- FodderCropsGuarWeather 
+
+- OilseedsCastorRehriRendiArandiSowingTimeandWeather 
+
+- FiberCropsCottonKapasSoilTesting 
+
+- VegetablesLongMelonBioPesticidesandBioFertilizers 
+
+- FruitsAcidLimePlantProtection 
+
+- FodderCropsGuarSowingTimeandWeather 
+
+- MilletsPearlMilletBajraBulrushMilletSpikedMilletVarieties 
+
+- AnimalBovineCowBuffaloLivestockProductsProcessingandPackaging 
+
+- FodderCropsGuarCulturalPractices 
+
+- FruitsGuavaPlantProtection 
+
+- CerealsOatsFieldPreparation 
+
+- VegetablesBottleGourdNurseryManagement 
+
+- FodderCropsBAJRANAPIERHYBRIDWeather 
+
+- CerealsTriticaleFieldPreparation 
+
+- VegetablesBottleGourdSeedsandPlantingMaterial 
+
+- CerealsWheatBioPesticidesandBioFertilizers 
+
+- AnimalBovineCowBuffaloDiseaseManagement 
+
+- VegetablesOnionPlantProtection 
+
+- VegetablesPotatoPlantProtection 
+
+- VegetablesBottleGourdAgricultureMechanization 
+
+- OilseedsGroundnutpeanutmungphalliMarketInformation 
+
+- VegetablesOnionMarketInformation 
+
+- FlowersLilliumsPlantProtection 
+
+- VegetablesLabLabPlantProtection 
+
+- OilseedsGroundnutpeanutmungphalliVarieties 
+
+- AnimalPOULTRYFARMLivestockProductsProcessingandPackaging 
+
+- FruitsPapayaFertilizerUseandAvailability 
+
+- OilseedsCastorRehriRendiArandiVarieties 
+
+- VegetablesBeansCulturalPractices 
+
+- VegetablesOnionFertilizerUseandAvailability 
+
+- OilseedsCastorRehriRendiArandiPlantProtection 
+
+- VegetablesBhindiOkraLadysfingerAgricultureMechanization 
+
+- VegetablesChilliesMarketInformation 
+
+- VegetablesBeansPlantProtection 
+
+- OilseedsCastorRehriRendiArandiNutrientManagement 
+
+- FlowersMarigoldCulturalPractices 
+
+- FruitsPomegranateFertilizerUseandAvailability 
+
+- PulsesBengalGramGramChickPeaKabuliChanaMarketInformation 
+
+- VegetablesChilliesSeedsandPlantingMaterial 
+
+- PlantationCropsCoconutFertilizerUseandAvailability 
+
+- VegetablesRidgeGourdCulturalPractices 
+
+- FlowersJasmineNutrientManagement 
+
+- FlowersLilliumsNutrientManagement 
+
+- VegetablesCucumberFieldPreparation 
+
+
+
+slots:
+
+   group:
+
+     type: text
+
+
+
+entities:
+
+- group
+
+
+
+actions: 
+
+- utter_OthersOthersWeedManagement 
+
+- utter_OthersOthersWeather 
+
+- utter_OthersOthersGovernmentSchemes 
+
+- utter_VegetablesTomatoPlantProtection 
+
+- utter_OthersOthersMarketInformation 
+
+- utter_VegetablesBrinjalAgricultureMechanization 
+
+- utter_CondimentsandSpicesTurmericMarketInformation 
+
+- utter_FruitsMangoMarketInformation 
+
+- utter_CondimentsandSpicesGingerCulturalPractices 
+
+- utter_CondimentsandSpicesGingerSeedsandPlantingMaterial 
+
+- utter_FiberCropsCottonKapasMarketInformation 
+
+- utter_CerealsPaddyDhanPlantProtection 
+
+- utter_VegetablesRidgeGourdPlantProtection 
+
+- utter_MilletsMaizeMakkaMarketInformation 
+
+- utter_MilletsMaizeMakkaPlantProtection 
+
+- utter_FruitsMangoPlantProtection 
+
+- utter_VegetablesCowpeaVegetablePlantProtection 
+
+- utter_OthersOthersCulturalPractices 
+
+- utter_FruitsCitrusNutrientManagement 
+
+- utter_VegetablesChilliesAgricultureMechanization 
+
+- utter_VegetablesBrinjalPlantProtection 
+
+- utter_MilletsSorghumJowarGreatMilletMarketInformation 
+
+- utter_MilletsPearlMilletBajraBulrushMilletSpikedMilletPlantProtection 
+
+- utter_CerealsPaddyDhanVarieties 
+
+- utter_OthersOthersSeeds 
+
+- utter_OilseedsGroundnutpeanutmungphalliNutrientManagement 
+
+- utter_OilseedsSesameGingellyTilSesamumFertilizerUseandAvailability 
+
+- utter_MilletsPearlMilletBajraBulrushMilletSpikedMilletSowingTimeandWeather 
+
+- utter_OilseedsSesameGingellyTilSesamumNutrientManagement 
+
+- utter_VegetablesLabLabCulturalPractices 
+
+- utter_PulsesBlackGramurdbeanSowingTimeandWeather 
+
+- utter_PulsesGreenGramMoongBeanMoongMarketInformation 
+
+- utter_PulsesBlackGramurdbeanMarketInformation 
+
+- utter_MilletsMaizeMakkaWeedManagement 
+
+- utter_VegetablesBhindiOkraLadysfingerCulturalPractices 
+
+- utter_VegetablesOnionGovernmentSchemes 
+
+- utter_FiberCropsCottonKapasWeather 
+
+- utter_VegetablesTomatoNutrientManagement 
+
+- utter_FruitsBananaPlantProtection 
+
+- utter_OilseedsGroundnutpeanutmungphalliPlantProtection 
+
+- utter_PulsesPigeonpearedgramarharturVarieties 
+
+- utter_OthersOthersTrainingandExposureVisits 
+
+- utter_VegetablesTomatoPlasticulture 
+
+- utter_VegetablesChilliesNutrientManagement 
+
+- utter_VegetablesBhindiOkraLadysfingerSeedsandPlantingMaterial 
+
+- utter_VegetablesBeansNurseryManagement 
+
+- utter_VegetablesCarrotCulturalPractices 
+
+- utter_OthersOthersSoilHealthCard 
+
+- utter_MedicinalandAromaticPlantsAloeVeraCulturalPractices 
+
+- utter_VegetablesTomatoFertilizerUseandAvailability 
+
+- utter_FruitsMangoSeedsandPlantingMaterial 
+
+- utter_FlowersHibiscusGurhalPlantProtection 
+
+- utter_FruitsChestnutPlantProtection 
+
+- utter_FlowersTuberosePlantProtection 
+
+- utter_CerealsPaddyDhanSowingTimeandWeather 
+
+- utter_FlowersChrysanthemumPlantProtection 
+
+- utter_OilseedsGroundnutpeanutmungphalliCulturalPractices 
+
+- utter_OilseedsGroundnutpeanutmungphalliWeedManagement 
+
+- utter_VegetablesBottleGourdPlantProtection 
+
+- utter_CerealsPaddyDhanFertilizerUseandAvailability 
+
+- utter_OthersOthersNutrientManagement 
+
+- utter_OthersOthersPlantProtection 
+
+- utter_VegetablesTomatoCulturalPractices 
+
+- utter_VegetablesTomatoAgricultureMechanization 
+
+- utter_VegetablesBrinjalNutrientManagement 
+
+- utter_VegetablesBhindiOkraLadysfingerPlantProtection 
+
+- utter_OilseedsSunflowersuryamukhiWeedManagement 
+
+- utter_VegetablesChilliesPlantProtection 
+
+- utter_FruitsPapayaCulturalPractices 
+
+- utter_CerealsPaddyDhanGovernmentSchemes 
+
+- utter_FruitsMangoCulturalPractices 
+
+- utter_CerealsPaddyDhanCulturalPractices 
+
+- utter_VegetablesBrinjalCulturalPractices 
+
+- utter_VegetablesCowpeaVegetableCulturalPractices 
+
+- utter_MilletsKodoMilletKodaraVaraguMarketInformation 
+
+- utter_FodderCropsOtherTrainingandExposureVisits 
+
+- utter_FruitsCitrusPlantProtection 
+
+- utter_FruitsBananaAgricultureMechanization 
+
+- utter_VegetablesCurryLeafSeedsandPlantingMaterial 
+
+- utter_FruitsMosambiPlantProtection 
+
+- utter_FiberCropsCottonKapasPlantProtection 
+
+- utter_FruitsBananaFertilizerUseandAvailability 
+
+- utter_FruitsPapayaAgricultureMechanization 
+
+- utter_FruitsPapayaPlantProtection 
+
+- utter_VegetablesBitterGourdSeedsandPlantingMaterial 
+
+- utter_CerealsWheatWeather 
+
+- utter_OthersOthersFieldPreparation 
+
+- utter_OthersOthersVarieties 
+
+- utter_VegetablesBitterGourdVegetativePropagationandTissueCulture 
+
+- utter_VegetablesOnionWeather 
+
+- utter_FruitsBananaWeather 
+
+- utter_FruitsPapayaNutrientManagement 
+
+- utter_MilletsMaizeMakkaVarieties 
+
+- utter_FruitsPomegranatePlantProtection 
+
+- utter_PulsesGreenGramMoongBeanMoongNutrientManagement 
+
+- utter_FruitsLitchiPlantProtection 
+
+- utter_CondimentsandSpicesTurmericSeedsandPlantingMaterial 
+
+- utter_VegetablesChilliesCulturalPractices 
+
+- utter_FiberCropsCottonKapasFieldPreparation 
+
+- utter_OilseedsGroundnutpeanutmungphalliFertilizerUseandAvailability 
+
+- utter_PulsesBlackGramurdbeanFertilizerUseandAvailability 
+
+- utter_FiberCropsCottonKapasFertilizerUseandAvailability 
+
+- utter_OilseedsGroundnutpeanutmungphalliFieldPreparation 
+
+- utter_OthersOthersSoilTesting 
+
+- utter_PulsesGreenGramMoongBeanMoongSeeds 
+
+- utter_VegetablesWatermelonPlantProtection 
+
+- utter_VegetablesBottleGourdNutrientManagement 
+
+- utter_MilletsBarnyardMilletKundiraivlliSawanPlantProtection 
+
+- utter_VegetablesPointedGourdCulturalPractices 
+
+- utter_VegetablesOnionCulturalPractices 
+
+- utter_BeekeepingBeekeepingCulturalPractices 
+
+- utter_OthersOthersAgricultureMechanization 
+
+- utter_OilseedsGroundnutpeanutmungphalliWeather 
+
+- utter_FiberCropsCottonKapasVarieties 
+
+- utter_OilseedsGroundnutpeanutmungphalliSeeds 
+
+- utter_OthersOthersWaterManagement 
+
+- utter_FruitsCustardAppleCulturalPractices 
+
+- utter_MedicinalandAromaticPlantsNeemNurseryManagement 
+
+- utter_FruitsBananaCulturalPractices 
+
+- utter_CerealsBarleyJauFieldPreparation 
+
+- utter_OilseedsSoybeanbhatCulturalPractices 
+
+- utter_FruitsSapotaCulturalPractices 
+
+- utter_FruitsSapotaSeedsandPlantingMaterial 
+
+- utter_AnimalBovineCowBuffaloAnimalBreeding 
+
+- utter_FiberCropsCottonKapasCulturalPractices 
+
+- utter_FiberCropsCottonKapasWeedManagement 
+
+- utter_CerealsWheatVarieties 
+
+- utter_FiberCropsCottonKapasNutrientManagement 
+
+- utter_CerealsPaddyDhanWeather 
+
+- utter_CerealsPaddyDhanSeeds 
+
+- utter_PulsesGreenGramMoongBeanMoongSowingTimeandWeather 
+
+- utter_VegetablesBottleGourdCulturalPractices 
+
+- utter_MilletsSorghumJowarGreatMilletPlantProtection 
+
+- utter_OthersOthersSowingTimeandWeather 
+
+- utter_FodderCropsGuarVarieties 
+
+- utter_OilseedsMustardMarketInformation 
+
+- utter_VegetablesCapsicumBioPesticidesandBioFertilizers 
+
+- utter_FiberCropsCottonKapasBioPesticidesandBioFertilizers 
+
+- utter_MilletsBarnyardMilletKundiraivlliSawanFieldPreparation 
+
+- utter_OthersOthersBioPesticidesandBioFertilizers 
+
+- utter_FruitsGuavaCulturalPractices 
+
+- utter_CerealsPaddyDhanBioPesticidesandBioFertilizers 
+
+- utter_FiberCropsCottonKapasSowingTimeandWeather 
+
+- utter_MilletsSorghumJowarGreatMilletBioPesticidesandBioFertilizers 
+
+- utter_CerealsPaddyDhanSoilTesting 
+
+- utter_FodderCropsGuarWeather 
+
+- utter_OilseedsCastorRehriRendiArandiSowingTimeandWeather 
+
+- utter_FiberCropsCottonKapasSoilTesting 
+
+- utter_VegetablesLongMelonBioPesticidesandBioFertilizers 
+
+- utter_FruitsAcidLimePlantProtection 
+
+- utter_FodderCropsGuarSowingTimeandWeather 
+
+- utter_MilletsPearlMilletBajraBulrushMilletSpikedMilletVarieties 
+
+- utter_AnimalBovineCowBuffaloLivestockProductsProcessingandPackaging 
+
+- utter_FodderCropsGuarCulturalPractices 
+
+- utter_FruitsGuavaPlantProtection 
+
+- utter_CerealsOatsFieldPreparation 
+
+- utter_VegetablesBottleGourdNurseryManagement 
+
+- utter_FodderCropsBAJRANAPIERHYBRIDWeather 
+
+- utter_CerealsTriticaleFieldPreparation 
+
+- utter_VegetablesBottleGourdSeedsandPlantingMaterial 
+
+- utter_CerealsWheatBioPesticidesandBioFertilizers 
+
+- utter_AnimalBovineCowBuffaloDiseaseManagement 
+
+- utter_VegetablesOnionPlantProtection 
+
+- utter_VegetablesPotatoPlantProtection 
+
+- utter_VegetablesBottleGourdAgricultureMechanization 
+
+- utter_OilseedsGroundnutpeanutmungphalliMarketInformation 
+
+- utter_VegetablesOnionMarketInformation 
+
+- utter_FlowersLilliumsPlantProtection 
+
+- utter_VegetablesLabLabPlantProtection 
+
+- utter_OilseedsGroundnutpeanutmungphalliVarieties 
+
+- utter_AnimalPOULTRYFARMLivestockProductsProcessingandPackaging 
+
+- utter_FruitsPapayaFertilizerUseandAvailability 
+
+- utter_OilseedsCastorRehriRendiArandiVarieties 
+
+- utter_VegetablesBeansCulturalPractices 
+
+- utter_VegetablesOnionFertilizerUseandAvailability 
+
+- utter_OilseedsCastorRehriRendiArandiPlantProtection 
+
+- utter_VegetablesBhindiOkraLadysfingerAgricultureMechanization 
+
+- utter_VegetablesChilliesMarketInformation 
+
+- utter_VegetablesBeansPlantProtection 
+
+- utter_OilseedsCastorRehriRendiArandiNutrientManagement 
+
+- utter_FlowersMarigoldCulturalPractices 
+
+- utter_FruitsPomegranateFertilizerUseandAvailability 
+
+- utter_PulsesBengalGramGramChickPeaKabuliChanaMarketInformation 
+
+- utter_VegetablesChilliesSeedsandPlantingMaterial 
+
+- utter_PlantationCropsCoconutFertilizerUseandAvailability 
+
+- utter_VegetablesRidgeGourdCulturalPractices 
+
+- utter_FlowersJasmineNutrientManagement 
+
+- utter_FlowersLilliumsNutrientManagement 
+
+- utter_VegetablesCucumberFieldPreparation 
+
+templates: 
+
+  utter_OthersOthersWeedManagement: 
+
+  - text: "RECOMMENDED TO SPRAY GLYPHOSATE 2 LITRES UREA 2 KGS 200 LITRES OF WATER PER ACRE" 
+
+  utter_OthersOthersWeather: 
+
+  - text: "WEATHER REPORT DRY WEATHER NO CHANCE OF RAINFALL IN YOUR AREA" 
+
+  utter_OthersOthersGovernmentSchemes: 
+
+  - text: "contact agriculture officer" 
+
+  utter_VegetablesTomatoPlantProtection: 
+
+  - text: "RECOMMENDED TO SPRAY FIPRONIL 400 ML 150 LITRES OF WATER ACRE" 
+
+  utter_OthersOthersMarketInformation: 
+
+  - text: "MINIMUM PRICE 3550 MAXIMUM PRICE 4550 Rs QUINTAL" 
+
+  utter_VegetablesBrinjalAgricultureMechanization: 
+
+  - text: "RECOMMENDED TO SPRAY EMAMECTIN BENZOATE 90 GRAMS 200 LITRES OF WATER ACRE" 
+
+  utter_CondimentsandSpicesTurmericMarketInformation: 
+
+  - text: "minimum price 4010 maximum price 6850" 
+
+  utter_FruitsMangoMarketInformation: 
+
+  - text: "MINIMUM PRICE 500 MAXIMUM PRICE 1300" 
+
+  utter_CondimentsandSpicesGingerCulturalPractices: 
+
+  - text: "" 
+
+  utter_CondimentsandSpicesGingerSeedsandPlantingMaterial: 
+
+  - text: "ginger variety name iisr varda iisr mahima himagir" 
+
+  utter_FiberCropsCottonKapasMarketInformation: 
+
+  - text: "Minimum Price Rs 4000 Quintal Maximum Price Rs 4500 Quintal " 
+
+  utter_CerealsPaddyDhanPlantProtection: 
+
+  - text: "RECOMMENDED TO SPRAY CARTAP HYDROCHLORIDE 400 GRAMS 200 LITRES OF WATER ACRE" 
+
+  utter_VegetablesRidgeGourdPlantProtection: 
+
+  - text: "RECOMMENDED TO SPRAY SPIROMESIFEN 200 ML 200 LITRES OF WATER ACRE" 
+
+  utter_MilletsMaizeMakkaMarketInformation: 
+
+  - text: "MINIMUM PRICE 1018 MAXIMUM PRICE 1319" 
+
+  utter_MilletsMaizeMakkaPlantProtection: 
+
+  - text: "RECOMMENDED TO DRENCH CHLORPYRIFOS 6 ML 1 LITRE OF WATER" 
+
+  utter_FruitsMangoPlantProtection: 
+
+  - text: "RECOMMENDED TO spray CHLORIPYRIPHOS 6 ml litre" 
+
+  utter_VegetablesCowpeaVegetablePlantProtection: 
+
+  - text: "RECOMMENDED TO SPRAY DIMETHOATE 400 ML 200 LITRES OF WATER ACRE" 
+
+  utter_OthersOthersCulturalPractices: 
+
+  - text: "CALL DISCONNECTED BY FARMER" 
+
+  utter_FruitsCitrusNutrientManagement: 
+
+  - text: "CITRUS FRUIT DROP MANAGEMENT RECOMMENDED TO SPRAY NAPHTHALENE ACETIC ACID 50 ML 200 LITRES OF WATER ACRE" 
+
+  utter_VegetablesChilliesAgricultureMechanization: 
+
+  - text: "RECOMMENDED TO SPRAY FIPRONIL 400 ML 200 LITERS OF WATER ACRE" 
+
+  utter_VegetablesBrinjalPlantProtection: 
+
+  - text: "RECOMMENDED TO SPRAY PROFENOFOS 400 ML 200 LITRES OF WATER ACRE" 
+
+  utter_MilletsSorghumJowarGreatMilletMarketInformation: 
+
+  - text: "MAHABOOBNAGAR DISTRICT MARKET CONTACT NUMBER 8542281006" 
+
+  utter_MilletsPearlMilletBajraBulrushMilletSpikedMilletPlantProtection: 
+
+  - text: "recommended to spray carbendazim 1gm lti of water" 
+
+  utter_CerealsPaddyDhanVarieties: 
+
+  - text: "VARIETIES OF PADDY RNR 15048 JGL 18047 KNM 118" 
+
+  utter_OthersOthersSeeds: 
+
+  - text: "Recommended Krishi Vigyan Kendra Vriddhachalam Cuddalore District contact no 04143 238353" 
+
+  utter_OilseedsGroundnutpeanutmungphalliNutrientManagement: 
+
+  - text: "recommended for apply 5 5 kg urea 12 kg potash 25 DAS acre" 
+
+  utter_OilseedsSesameGingellyTilSesamumFertilizerUseandAvailability: 
+
+  - text: "Recommended for apply urea 30 kg supper phosphate 57 kg potash 15 kg magnesium 2 kg acre" 
+
+  utter_MilletsPearlMilletBajraBulrushMilletSpikedMilletSowingTimeandWeather: 
+
+  - text: "recommended for Chithiraipattam april may CO 7 CO Cu 9 X 7 ICMV 221 TNAU cumbu hybrid Co 9" 
+
+  utter_OilseedsSesameGingellyTilSesamumNutrientManagement: 
+
+  - text: "Recommended for spray pulses wonder 2kg ac 200 litter of water" 
+
+  utter_VegetablesLabLabCulturalPractices: 
+
+  - text: "recommended for Co 6 Co 7 Co 8 Co 9 Co 10 Co 11 Co 12 Co 13 Co Gb 14 Arka Jay and Arka Vijay are cultivated " 
+
+  utter_PulsesBlackGramurdbeanSowingTimeandWeather: 
+
+  - text: "Recommended for black gram season April May and variety ADT 5" 
+
+  utter_PulsesGreenGramMoongBeanMoongMarketInformation: 
+
+  - text: "recommended for the green gram price Rs 4500 4700 quintal" 
+
+  utter_PulsesBlackGramurdbeanMarketInformation: 
+
+  - text: "Recommended at Villupuram 4000 Rs Quintal" 
+
+  utter_MilletsMaizeMakkaWeedManagement: 
+
+  - text: "RECOMMENDED TO SPRAY ATRAZINE 800 GRAMS PER ACRE" 
+
+  utter_VegetablesBhindiOkraLadysfingerCulturalPractices: 
+
+  - text: "VARIETIES OF BHENDI PARBHANI KRANTHI ARKA ANAMIKA ARKA ABHAYA" 
+
+  utter_VegetablesOnionGovernmentSchemes: 
+
+  - text: "CONTACT NUMBER 0863 2216470" 
+
+  utter_FiberCropsCottonKapasWeather: 
+
+  - text: "recommended to spray ulala 75g 150lit of water acre" 
+
+  utter_VegetablesTomatoNutrientManagement: 
+
+  - text: "Recommended to spray Multi K 13 0 45 1 kg acre" 
+
+  utter_FruitsBananaPlantProtection: 
+
+  - text: "recommended to spray mancozeb 0 5 " 
+
+  utter_OilseedsGroundnutpeanutmungphalliPlantProtection: 
+
+  - text: "RECOMMENDED TO SPRAY COPPER OXY CHLORIDE 600 GM 200 LITRES OF WATER ACRE" 
+
+  utter_PulsesPigeonpearedgramarharturVarieties: 
+
+  - text: "REDGRAM VARIETIES LRG 38 LRG 41 PRG 158" 
+
+  utter_OthersOthersTrainingandExposureVisits: 
+
+  - text: "TOLD HIM TO VISIT KVK" 
+
+  utter_VegetablesTomatoPlasticulture: 
+
+  - text: "TOLD HIM YES TOMATO CAN GROWN" 
+
+  utter_VegetablesChilliesNutrientManagement: 
+
+  - text: "TOLD HIM TO SPRAY PLANOFIX 1ML L OF WATER" 
+
+  utter_VegetablesBhindiOkraLadysfingerSeedsandPlantingMaterial: 
+
+  - text: "bhendi about information contact rajendranagar vegetables reaserch station hyderabad ph number 040 24018016" 
+
+  utter_VegetablesBeansNurseryManagement: 
+
+  - text: "RECOMMENDED TO SPRAY AGROMIN MAX 5 GR 1 LITRE OF WATER" 
+
+  utter_VegetablesCarrotCulturalPractices: 
+
+  - text: "RECOMMENDED TO SPRAY METRIBUZEN 300 GRAMS ACRE" 
+
+  utter_OthersOthersSoilHealthCard: 
+
+  - text: "RECOMMENDED TO CONTACT 0402331636" 
+
+  utter_MedicinalandAromaticPlantsAloeVeraCulturalPractices: 
+
+  - text: "contact number 8187890585" 
+
+  utter_VegetablesTomatoFertilizerUseandAvailability: 
+
+  - text: "RECOMMENDED TO SPRAY 13 O 45 POTASSIUM NITRATE 5 GRAMS 1 LITRE OF WATER" 
+
+  utter_FruitsMangoSeedsandPlantingMaterial: 
+
+  - text: "RECOMMENDED MANGO VARIETIES NEELAM DASHERI MALGOBA THOTHAPURI" 
+
+  utter_FlowersHibiscusGurhalPlantProtection: 
+
+  - text: "RECOMMENDED TO SPRAY CHLORPYRIFOS 500 ML 200 LITRES OF WATER ACRE" 
+
+  utter_FruitsChestnutPlantProtection: 
+
+  - text: "RECOMMENDED TO SPRAY CHLORPYRIFOS 500 ML 200 LITRES OF WATER ACRE" 
+
+  utter_FlowersTuberosePlantProtection: 
+
+  - text: "RECOMMENDED TO DRENCH COPPER OXY CHLORIDE 3 GRAMS 1 LITRE OF WATER" 
+
+  utter_CerealsPaddyDhanSowingTimeandWeather: 
+
+  - text: "RECOMMENDED PADDY SOWING TIME JUNE JULY" 
+
+  utter_FlowersChrysanthemumPlantProtection: 
+
+  - text: "Recommended to spray malathion 2ml litr" 
+
+  utter_OilseedsGroundnutpeanutmungphalliCulturalPractices: 
+
+  - text: "RECOMMENDED TO SEED TREATMENT CAPTAN OR THIRAM OR MANCOZEB 3 GRAMS KG OF SEEDS INSECTICIDE IMIDACLOPRID or THIAMETHOXAM 5 GRAMS SUCKING PESTS CHLORPYRIFOS 6 5ML ROOT GRUBS 1 KG OF SEEDS" 
+
+  utter_OilseedsGroundnutpeanutmungphalliWeedManagement: 
+
+  - text: "RECOMMENDED TO SPRAY PENDIMETHALIN 1 LITRE 200 LITRES OF WATER ACRE" 
+
+  utter_VegetablesBottleGourdPlantProtection: 
+
+  - text: "RECOMMENDED TO SPRAY DIMETHOATE 400 ML 200 LITRES OF WATER ACRE" 
+
+  utter_CerealsPaddyDhanFertilizerUseandAvailability: 
+
+  - text: "FERTILISER MANGEMENT IN PADDY UREA 100KG SSP 150KG POTASH 33KG ZINC 20KG ACER" 
+
+  utter_OthersOthersNutrientManagement: 
+
+  - text: "Saline soil solution information contact 040 24001601" 
+
+  utter_OthersOthersPlantProtection: 
+
+  - text: "RECOMMENDED TO APPLY 5 10 GRAMS OF MANCOZEB M 45 PER PLANT OR RECOMMENDED TO DRENCH COPPER OXY CHLORIDE 3 GRAMS 1 LITRE OF WATER" 
+
+  utter_VegetablesTomatoCulturalPractices: 
+
+  - text: "RECOMMENDED TO SPRAY METRIBUZEN TATAMETRI SHANKAR BARRIER 500 GRAMS ACRE" 
+
+  utter_VegetablesTomatoAgricultureMechanization: 
+
+  - text: "RECOMMENDED TO SPRAY CARBENDAZIM MANCOZEB 400 GRAMS 200 LITERS OF WATER ACRE" 
+
+  utter_VegetablesBrinjalNutrientManagement: 
+
+  - text: "Recommended to spray 19 19 19NPK 5 gr liter of water" 
+
+  utter_VegetablesBhindiOkraLadysfingerPlantProtection: 
+
+  - text: "RECOMMENDED TO SPRAY CHLORPYRIFOS 500 ML 200 LITRES OF WATER ACRE" 
+
+  utter_OilseedsSunflowersuryamukhiWeedManagement: 
+
+  - text: "RECOMMENDED TO SPRAY QUIZALOPOP ETHYL 400 ML PER ACRE" 
+
+  utter_VegetablesChilliesPlantProtection: 
+
+  - text: "recommended to spray 3g mancozeb lit of water" 
+
+  utter_FruitsPapayaCulturalPractices: 
+
+  - text: "RECOMMENDED TO SPRAY ATRAZINE 800 GRAMS 200 LITRES OF WATER PER ACRE" 
+
+  utter_CerealsPaddyDhanGovernmentSchemes: 
+
+  - text: "GOVERNMENT SCHEMES CONTACT NUMBER 8179540261" 
+
+  utter_FruitsMangoCulturalPractices: 
+
+  - text: "RECOMMENDED TO SPRAY GLYPHOSATE ZOOMER GLYCEL ROUNDUP 2 LITRES UREA 2 KGS 200 LITRES OF WATER PER ACRE" 
+
+  utter_CerealsPaddyDhanCulturalPractices: 
+
+  - text: "BORDO PASTE PREPARATION COPPER SULPHATE 1 KG LIME 1 5 KGS WATER 13 5 LITRES" 
+
+  utter_VegetablesBrinjalCulturalPractices: 
+
+  - text: "no chemical should be used to control in brinjal sown after 10 days crop" 
+
+  utter_VegetablesCowpeaVegetableCulturalPractices: 
+
+  - text: "RECOMMENDED TO APPLY COW PEA VARITIEES JC 3 V 585 V 240 CO 7" 
+
+  utter_MilletsKodoMilletKodaraVaraguMarketInformation: 
+
+  - text: "SUGGESTED TO CONTACT 040 24599326" 
+
+  utter_FodderCropsOtherTrainingandExposureVisits: 
+
+  - text: "SUGGESTED TO CONTACT KRISHNA DISTRICT AO 8886612535" 
+
+  utter_FruitsCitrusPlantProtection: 
+
+  - text: "RECOMMENDED TO SPRAY PROPARGITE 200 ML 200 LITRES OF WATER ACRE" 
+
+  utter_FruitsBananaAgricultureMechanization: 
+
+  - text: "RECOMMENDED TO APPLY CARBOFURAN 3 G GRANULES 10GM PLANT" 
+
+  utter_VegetablesCurryLeafSeedsandPlantingMaterial: 
+
+  - text: "recommended to contact mandal ho officer of curry leaves seeds" 
+
+  utter_FruitsMosambiPlantProtection: 
+
+  - text: "RECOMMENDED TO SPRAY DIMETHOATE 2ML LITRE OF WATER" 
+
+  utter_FiberCropsCottonKapasPlantProtection: 
+
+  - text: "RECOMMENDED TO SPRAY THIAMETHOXAM 40 GRAMS 200 LITRES OF WATER ACRE" 
+
+  utter_FruitsBananaFertilizerUseandAvailability: 
+
+  - text: "recommended to apply urea 10gm mop 7gm plant week in drip irrigation " 
+
+  utter_FruitsPapayaAgricultureMechanization: 
+
+  - text: "RECOMMENDED TO SPRAY THIAMETHOXAM 40 GRAMS 200 LITRES OF WATER ACRE" 
+
+  utter_FruitsPapayaPlantProtection: 
+
+  - text: "RECOMMENDED TO SPRAY THIAMETHOXAM 40 GRAMS 150 LITRES OF WATER ACRE" 
+
+  utter_VegetablesBitterGourdSeedsandPlantingMaterial: 
+
+  - text: "COIMBATHUR GREEN LONG COIMBATHUR WHITE LONG ARKA HARITH PUSA VISHESH PRIYA" 
+
+  utter_CerealsWheatWeather: 
+
+  - text: "TODAY AND TOMORROW NO CHANCE OF RAIN" 
+
+  utter_OthersOthersFieldPreparation: 
+
+  - text: "Cloudy weather Today tomorrow chance of rain" 
+
+  utter_OthersOthersVarieties: 
+
+  - text: "PUSA 644 KRH 2 PHB 71 DRRH 1 CORH 3 Pioniar MTU 7029 JK 401 PUSA HYBRID 1" 
+
+  utter_VegetablesBitterGourdVegetativePropagationandTissueCulture: 
+
+  - text: "BITTER GOURD HYBRIDS Sadabahar Poornima Hyb novbharti PH 2 VARIETIES COIMBATORE LONG" 
+
+  utter_VegetablesOnionWeather: 
+
+  - text: "Cloudy weather today and tomorrow no chance of rain" 
+
+  utter_FruitsBananaWeather: 
+
+  - text: "Cloudy weather today and tomorrow no chance of rain" 
+
+  utter_FruitsPapayaNutrientManagement: 
+
+  - text: "SPRAY MULTIMICRONUTRIENT 2ML LIT OF WATER" 
+
+  utter_MilletsMaizeMakkaVarieties: 
+
+  - text: "Recommended for ganga safed 2 dekkan 101 Vijay Navjot Mahi Dhawal Mahi kanchan are maize verities " 
+
+  utter_FruitsPomegranatePlantProtection: 
+
+  - text: "Monocrotophos 36 WSC 1 ml lit" 
+
+  utter_PulsesGreenGramMoongBeanMoongNutrientManagement: 
+
+  - text: "spray urea 1 gram liter water" 
+
+  utter_FruitsLitchiPlantProtection: 
+
+  - text: "Spray planofix 1 ml 4 5 litre of water" 
+
+  utter_CondimentsandSpicesTurmericSeedsandPlantingMaterial: 
+
+  - text: "Turmeric Sugandham Guj Haldar 1 B S R 1 shuroma Prbha Prtibha Krishna Rajendarsoniya Ranga First week of May 2800 3000 kg ha 30 X 30 Cm BASAL DOSE FYM 20 T NARMADA PHOS 300KG " 
+
+  utter_VegetablesChilliesCulturalPractices: 
+
+  - text: "suggested JUne month" 
+
+  utter_FiberCropsCottonKapasFieldPreparation: 
+
+  - text: "all information provided thanks for calling in kisan call centre" 
+
+  utter_OilseedsGroundnutpeanutmungphalliFertilizerUseandAvailability: 
+
+  - text: "BASAL DOSE AMMONIUM SULPHATE 80KG SSP 150KG Ferus sulphate 25KG " 
+
+  utter_PulsesBlackGramurdbeanFertilizerUseandAvailability: 
+
+  - text: "GUJARAT 1 T 9 TPU4" 
+
+  utter_FiberCropsCottonKapasFertilizerUseandAvailability: 
+
+  - text: "BASAL DOSE 12 32 16 125KG AMMONIUM NITRATE 100KG AFTER 30 60 90 105 DAYS UREA 110KG " 
+
+  utter_OilseedsGroundnutpeanutmungphalliFieldPreparation: 
+
+  - text: "Suggested Chlorpyrifos 20 EC 25 ml 10 kg seeds" 
+
+  utter_OthersOthersSoilTesting: 
+
+  - text: "all information provided thanks for calling in kisan call centre" 
+
+  utter_PulsesGreenGramMoongBeanMoongSeeds: 
+
+  - text: "Suggested Imidacloprid 17 8 s l 5 ml pump spray" 
+
+  utter_VegetablesWatermelonPlantProtection: 
+
+  - text: "all information provided thanks for calling in kisan call centre" 
+
+  utter_VegetablesBottleGourdNutrientManagement: 
+
+  - text: "Suggested 5 ml NAA Planofix 150 gm 13 00 45 ferti pump spray" 
+
+  utter_MilletsBarnyardMilletKundiraivlliSawanPlantProtection: 
+
+  - text: "all information provided thanks for calling in kisan call centre" 
+
+  utter_VegetablesPointedGourdCulturalPractices: 
+
+  - text: "all information provided thanks for calling in kisan call centre" 
+
+  utter_VegetablesOnionCulturalPractices: 
+
+  - text: "all information provided thanks for calling in kisan call centre" 
+
+  utter_BeekeepingBeekeepingCulturalPractices: 
+
+  - text: "all information provided" 
+
+  utter_OthersOthersAgricultureMechanization: 
+
+  - text: "all information provided thanks for calling in kisan call centre" 
+
+  utter_OilseedsGroundnutpeanutmungphalliWeather: 
+
+  - text: "Spreading GG11 10 13 12 45 GJGHPS 1 GJG 17 June July MONSOON JAN FEB SUMMER 120 150 Kg ha 75 X 15 Cm BASAL DOSE AMMONIUM SULPHATE 80KG SSP 150KG GIV IRRIGATION THERE IS NO RAIN 4 6 IRRIGATION REQUIRED 180 210days 1800 3000 ha" 
+
+  utter_FiberCropsCottonKapasVarieties: 
+
+  - text: "BT Sankar 8 10 Ajit 155 Rashi 5 Vikarm 5" 
+
+  utter_OilseedsGroundnutpeanutmungphalliSeeds: 
+
+  - text: "Suggested Chlorpyrifos 20 EC 25 ml 10 kg seeds" 
+
+  utter_OthersOthersWaterManagement: 
+
+  - text: "all information provided thanks for calling in kisan call centre" 
+
+  utter_FruitsCustardAppleCulturalPractices: 
+
+  - text: "Ask for Junagadh Agri Uni Contact number 0285 2672080 SSK " 
+
+  utter_MedicinalandAromaticPlantsNeemNurseryManagement: 
+
+  - text: "all information provided thanks for calling in kisan call centre" 
+
+  utter_FruitsBananaCulturalPractices: 
+
+  - text: "all information provided thanks for calling in kisan call centre" 
+
+  utter_CerealsBarleyJauFieldPreparation: 
+
+  - text: "all information provided thanks for calling in kisan call centre" 
+
+  utter_OilseedsSoybeanbhatCulturalPractices: 
+
+  - text: "all information provided thanks for calling in kisan call centre" 
+
+  utter_FruitsSapotaCulturalPractices: 
+
+  - text: "all information provided thanks for calling in kisan call centre" 
+
+  utter_FruitsSapotaSeedsandPlantingMaterial: 
+
+  - text: "1 vadrad talod road pratinj sabarkatha 02770 230108 2 Dehgam Gandhinagar Gandhinagar 02716 231911" 
+
+  utter_AnimalBovineCowBuffaloAnimalBreeding: 
+
+  - text: "all information provided thanks for calling in kisan call centre" 
+
+  utter_FiberCropsCottonKapasCulturalPractices: 
+
+  - text: "all information provided thanks for calling in kisan call centre" 
+
+  utter_FiberCropsCottonKapasWeedManagement: 
+
+  - text: " 50 EC " 
+
+  utter_CerealsWheatVarieties: 
+
+  - text: "varieties of Basmati paddy Basmati 370 taravari basmati CSR 30 Haryana Basmati 1 pusa basmati 1 4 pusa 1121 " 
+
+  utter_FiberCropsCottonKapasNutrientManagement: 
+
+  - text: "apply 20 KG UREA 50 kg DAP 40 kg MOP and 10 kg Zinc in cotton at sowing time " 
+
+  utter_CerealsPaddyDhanWeather: 
+
+  - text: "Some clouds and chance of rain fall today " 
+
+  utter_CerealsPaddyDhanSeeds: 
+
+  - text: "use of bavistin 10 gm streptocycline 1 gm in 10 litre of water of 10 12 kg seed " 
+
+  utter_PulsesGreenGramMoongBeanMoongSowingTimeandWeather: 
+
+  - text: "complete month of march 1 to 10 july " 
+
+  utter_VegetablesBottleGourdCulturalPractices: 
+
+  - text: "variety of bottlegourd pusa summer prolific long pusa summer prolific round" 
+
+  utter_MilletsSorghumJowarGreatMilletPlantProtection: 
+
+  - text: "INFORMATION REGARDING TOSUNDI CONTROL IN SORGHUM SPRAY 500 ML QUINALPHOS 25 EC OR 250 ML MONOCROTOPHOS36 SL IN 250 LITER WATER " 
+
+  utter_OthersOthersSowingTimeandWeather: 
+
+  - text: "INFORMATION REGARDING OF SOIL AND WATER TESTING CONTECT TO K V K IN DISTRICT AGRICULTURE DEVELOPMENT OFFICER ADO " 
+
+  utter_FodderCropsGuarVarieties: 
+
+  - text: "Information regarding improved varieties of Gwar HG 75 HG 365 HG 563 HG 870 HG 2 20 " 
+
+  utter_OilseedsMustardMarketInformation: 
+
+  - text: "INFORMATION REGARDING MANDI RATE OF DIFFERENT CROPS Information regarding Contact no of mandi bhav 1800 180 2060 " 
+
+  utter_VegetablesCapsicumBioPesticidesandBioFertilizers: 
+
+  - text: "spray 350 ml rogor in 150 liter of water per acre " 
+
+  utter_FiberCropsCottonKapasBioPesticidesandBioFertilizers: 
+
+  - text: "Spray Oberon 200 ml 50 gram actara 500 ml nimisidin in 200 liter water per acre " 
+
+  utter_MilletsBarnyardMilletKundiraivlliSawanFieldPreparation: 
+
+  - text: "clear weather no chance of rainfall today " 
+
+  utter_OthersOthersBioPesticidesandBioFertilizers: 
+
+  - text: "hazy sunshine and some chance of rainfall today " 
+
+  utter_FruitsGuavaCulturalPractices: 
+
+  - text: "How to control flower and fruit dropping Spray of planofix oriofizin 1 ml 4 5 liter water " 
+
+  utter_CerealsPaddyDhanBioPesticidesandBioFertilizers: 
+
+  - text: "10 gm Emisan or 10 gm Carbendazim 1 gram streptocycline 10 kg seed dissolve in 10 lt of waterfor 24 hours " 
+
+  utter_FiberCropsCottonKapasSowingTimeandWeather: 
+
+  - text: "Sowing time of Cotton is 15 april to 10 june " 
+
+  utter_MilletsSorghumJowarGreatMilletBioPesticidesandBioFertilizers: 
+
+  - text: "HOW TO CONTROL FUNJAL DISEASE IN BAJRA SPRAY OF CARVENDAJIM BABASTIN 500 GM IN 200 LITER WATER ACRE " 
+
+  utter_CerealsPaddyDhanSoilTesting: 
+
+  - text: "10 gm Emisan or 10 gm Carbendazim 1 gram streptocycline 10 kg seed dissolve in 10 lt of waterfor 24 hours " 
+
+  utter_FodderCropsGuarWeather: 
+
+  - text: "Information regarding weather in sirsa Some clouds and no chance of rain fall today " 
+
+  utter_OilseedsCastorRehriRendiArandiSowingTimeandWeather: 
+
+  - text: "SOWING TIME OF CASTOR 15 JULY TO 30 JULY SPACING IS 30 30 CM " 
+
+  utter_FiberCropsCottonKapasSoilTesting: 
+
+  - text: "Contact to ADO and kvk" 
+
+  utter_VegetablesLongMelonBioPesticidesandBioFertilizers: 
+
+  - text: "control of fruit cracking in long melon spray borex 3 gm per liter water " 
+
+  utter_FruitsAcidLimePlantProtection: 
+
+  - text: "some clouds and some chance of rainfall today " 
+
+  utter_FodderCropsGuarSowingTimeandWeather: 
+
+  - text: "Information regarding sowing time of Gwar Sowing time of gwar is 2nd fortnight of June to July " 
+
+  utter_MilletsPearlMilletBajraBulrushMilletSpikedMilletVarieties: 
+
+  - text: "HHB 50 HHB 60 HHB 67 HHB 94 HHB 117 HHB 146 HHB 197 HHB 216 HHB 223 " 
+
+  utter_AnimalBovineCowBuffaloLivestockProductsProcessingandPackaging: 
+
+  - text: "Contact 1800 180 1184 Monday Wednesday Friday 10 AM 1PM " 
+
+  utter_FodderCropsGuarCulturalPractices: 
+
+  - text: "HG 75 HG 365 HG 563 HG 870 HG 2 20 " 
+
+  utter_FruitsGuavaPlantProtection: 
+
+  - text: "How to control flower and fruit dropping Spray of planofix oriofizin 1 ml 4 5 liter water " 
+
+  utter_CerealsOatsFieldPreparation: 
+
+  - text: "some clouds and some chance of rainfall today " 
+
+  utter_VegetablesBottleGourdNurseryManagement: 
+
+  - text: "pusa summer prolific long pusa summer prolific round pusa naveen " 
+
+  utter_FodderCropsBAJRANAPIERHYBRIDWeather: 
+
+  - text: "Information regarding weather in sirsa Some clouds and no chance of rain fall today " 
+
+  utter_CerealsTriticaleFieldPreparation: 
+
+  - text: "some clouds and some chance of rainfall today " 
+
+  utter_VegetablesBottleGourdSeedsandPlantingMaterial: 
+
+  - text: "pusa summer prolific long pusa smmer prolific round " 
+
+  utter_CerealsWheatBioPesticidesandBioFertilizers: 
+
+  - text: "10 gm Emisan or 10 gm Carbendazim dissolve in 10 lt of water " 
+
+  utter_AnimalBovineCowBuffaloDiseaseManagement: 
+
+  - text: "conference karayee gai inrocine 5 es 10 ml brotone 5 ml din me do baar teen din tak de" 
+
+  utter_VegetablesOnionPlantProtection: 
+
+  - text: "kisan bhai ap Carbendazim 12 Mancozeb 63 WP 2ml liter ke dar se ghol bana kar spray kare pyaj ke fasal me" 
+
+  utter_VegetablesPotatoPlantProtection: 
+
+  - text: "Hexaconazole 5 SC dose acre 200 400 ml acre" 
+
+  utter_VegetablesBottleGourdAgricultureMechanization: 
+
+  - text: "Quinalphos 25 EC 400ml ekad 200 liter pani ki dar se spray kared" 
+
+  utter_OilseedsGroundnutpeanutmungphalliMarketInformation: 
+
+  - text: "GROUND NUT MARKET INFORMATION MINIMUM RICE 3009 MAXIMUM PRICE 3889 PER RS QUINTAL" 
+
+  utter_VegetablesOnionMarketInformation: 
+
+  - text: "onion market rate minimum 300 maximum 1200" 
+
+  utter_FlowersLilliumsPlantProtection: 
+
+  - text: "LILIUMS SOWING TIME JUNE AUGUST" 
+
+  utter_VegetablesLabLabPlantProtection: 
+
+  - text: "LAB LAB SOWING TIME KHARIF JUNE 15 TO JULY 15" 
+
+  utter_OilseedsGroundnutpeanutmungphalliVarieties: 
+
+  - text: "GROUND NUT KADIRI 6 KADIRI 9 ABHAYA NARAYANI VEMANA DROUGHT AND LEAF SPOT RESISTANCE KADIRI 9 KADIRI HARITHANDRA VEMANA BCGV 00350 ANANTHA ICGV 00350 ROT RESISTANCE J 11recommended" 
+
+  utter_AnimalPOULTRYFARMLivestockProductsProcessingandPackaging: 
+
+  - text: "Poultry PDP HYD GRAMPRIYA VANARAJA SRINIDHI Chicks and EGGS 040 25505442 040 24017000 24015651 hatchery 040 24018687" 
+
+  utter_FruitsPapayaFertilizerUseandAvailability: 
+
+  - text: "recommened to apply 500 urea 1600 grams ssp 850 grams mop per each plant in one year" 
+
+  utter_OilseedsCastorRehriRendiArandiVarieties: 
+
+  - text: "recommended castor varities G C H 4 D C H 177 D C H 519 JYOTHI JWALA KIRAN HARITHA" 
+
+  utter_VegetablesBeansCulturalPractices: 
+
+  - text: "INTERCROPPING WITH BEANS MAIZE COTTON REDGRAM BLACKGRAM COWPEA" 
+
+  utter_VegetablesOnionFertilizerUseandAvailability: 
+
+  - text: "FERTILIZER APPLICATION IN ONION UREA 174KG SSP 150KG MOP 40KG" 
+
+  utter_OilseedsCastorRehriRendiArandiPlantProtection: 
+
+  - text: "WEATHER REPORT THERE IS NO CHANCE OF RAIN IN YOUR AREA CLOUDY WEATHER OCCUR" 
+
+  utter_VegetablesBhindiOkraLadysfingerAgricultureMechanization: 
+
+  - text: "RECOMMENDED TO SPRAY DIMETHOATE 2ML LITRE OF WATER" 
+
+  utter_VegetablesChilliesMarketInformation: 
+
+  - text: "chilli market information minimum 9500 Rs quintal maximum 10500 Rs quintal average 10000 Rs quintal" 
+
+  utter_VegetablesBeansPlantProtection: 
+
+  - text: "RECOMMENDED TO DRENCH COPPER OXY CHLORIDE 3 GRAMS 1 LITRE OF WATER" 
+
+  utter_OilseedsCastorRehriRendiArandiNutrientManagement: 
+
+  - text: "AGROMIN MAX 1KG ACRE IN 200 LT WATER" 
+
+  utter_FlowersMarigoldCulturalPractices: 
+
+  - text: "African marigold French marigold" 
+
+  utter_FruitsPomegranateFertilizerUseandAvailability: 
+
+  - text: "RECOMMENDED TO APPLY 10 KG FYM 250 GR NEEM CAKE PER PLANT" 
+
+  utter_PulsesBengalGramGramChickPeaKabuliChanaMarketInformation: 
+
+  - text: "bengal gram MARKET INFORMATION MINIMUM PRICE Rs 4420 QUINTAL MAXIMUM PRICE Rs 4452 QUINTAL" 
+
+  utter_VegetablesChilliesSeedsandPlantingMaterial: 
+
+  - text: "july august" 
+
+  utter_PlantationCropsCoconutFertilizerUseandAvailability: 
+
+  - text: "RECOMMENDED TO APPLY UREA 500GM DAP 250GM MOP 1KG PLANT YEAR" 
+
+  utter_VegetablesRidgeGourdCulturalPractices: 
+
+  - text: "ridge gourd varieties jagityal long jaipure long arka sujatha" 
+
+  utter_FlowersJasmineNutrientManagement: 
+
+  - text: "RECOMMENDED TO SPRAY 13 O 45 POTASSIUM NITRATE 5 GRAMS 1 LITRE OF WATER" 
+
+  utter_FlowersLilliumsNutrientManagement: 
+
+  - text: "RECOMMENDED TO SPRAY 19 19 19 NPK 5 GRAMS 1 LITRE OF WATER" 
+
+  utter_VegetablesCucumberFieldPreparation: 
+
+  - text: "RECOMMENDED TO SPRAY OF BORAX 3 GRAMS PER LITRE" 
+
